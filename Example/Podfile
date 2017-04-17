@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'TEQRCode_Example' do
+  pod 'TEQRCode', :path => '../'
+
+  target 'TEQRCode_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

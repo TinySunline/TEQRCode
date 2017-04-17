@@ -1,0 +1,16 @@
+PODS:
+  - TEQRCode (0.1.0)
+
+DEPENDENCIES:
+  - TEQRCode (from `../`)
+
+EXTERNAL SOURCES:
+  TEQRCode:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TEQRCode: b1ce548b76b1074f5e9ebe5dfcd63e112b68d408
+
+PODFILE CHECKSUM: 8d087d9bb4b0bed9ff74a7abc9e7478067684328
+
+COCOAPODS: 1.2.1
